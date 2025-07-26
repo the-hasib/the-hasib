@@ -13,4 +13,13 @@
 - Git & GitHub
 - VS Code
 
+## 🚀 Current Goals:
+- Learn Git and GitHub fluently ✅  
+- Master C++ basics and solve 50+ problems 🔢  
+- Create mini projects to apply my knowledge 🔧  
+- Contribute to open-source (future plan!) 💡
+
 ---
+
+   
+Thanks for visiting my GitHub profile! 🌟
