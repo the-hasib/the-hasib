@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hasibur 👋
 
-<!--
-**the-hasib/the-hasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at UIU  
+💻 Currently learning: C++, Git, GitHub & Data Structures  
+🚀 Passionate about coding, problem-solving & building my skills  
+📚 Always exploring new technologies  
+🌐 [Facebook Profile] https://www.facebook.com/cotosaheb00
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools & Technologies
+- C++
+- Git & GitHub
+- VS Code
+
+---
