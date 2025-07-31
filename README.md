@@ -1,4 +1,4 @@
-# Hi, I'm Hasibur 👋
+# Hi, I'm S M Hasibur Rahman 👋
 
 🎓 CSE Student at UIU  
 💻 Currently learning: C++, Git, GitHub & Data Structures  
@@ -15,7 +15,7 @@
 
 ## 🚀 Current Goals:
 - Learn Git and GitHub fluently ✅  
-- Master C++ basics and solve 50+ problems 🔢  
+- Master C++ basics and try to solve 200+ problems 🔢  
 - Create mini projects to apply my knowledge 🔧  
 - Contribute to open-source (future plan!) 💡
 
