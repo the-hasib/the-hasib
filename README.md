@@ -15,7 +15,8 @@
 ---
 
 ## 🚀 Current Goals:
-- Learn Git and GitHub fluently ✅  
+- Learn Git and GitHub fluently ✅
+- Learning Flutter and starting mobile app development 🚀  
 - Master C++ basics and try to solve 200+ problems 🔢  
 - Create mini projects to apply my knowledge 🔧  
 - Contribute to open-source (future plan!) 💡
