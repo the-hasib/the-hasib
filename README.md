@@ -44,7 +44,8 @@
 ---
 😁😁
 
-<img align ="rihgt" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frahmatullah99&psig=AOvVaw05x1rJQlcOFytA517Mr0El&ust=1763492304029000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiUr_3u-ZADFQAAAAAdAAAAABAE" 
+<img align ="rihgt" alt="coding" width="400" src="![Uploading 68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966.gif…]()
+" 
 ---
  ## 📫 Connect with Me
  [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasib.cse.uiu@gmail.com)
