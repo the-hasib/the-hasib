@@ -42,11 +42,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
-😁😁
-
-<img align ="rihgt" alt="coding" width="400" src="![Uploading 68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966.gif…]()
-" 
----
  ## 📫 Connect with Me
  [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasib.cse.uiu@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/cotosaheb00)
