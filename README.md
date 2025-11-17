@@ -41,7 +41,10 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+---
+😁😁
 
+<img align ="rihgt" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frahmatullah99&psig=AOvVaw05x1rJQlcOFytA517Mr0El&ust=1763492304029000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiUr_3u-ZADFQAAAAAdAAAAABAE" 
 ---
  ## 📫 Connect with Me
  [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasib.cse.uiu@gmail.com)
