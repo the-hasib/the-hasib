@@ -22,7 +22,8 @@
 - Contribute to open-source (future plan!) 💡
 
 ---
-https://github.com/the-hasib/the-hasib/blob/output/github-contribution-grid-snake.svg
+![Snake animation](https://raw.githubusercontent.com/the-hasib/the-hasib/output/github-contribution-grid-snake.svg)
+
 
 ---
 ## 📊 GitHub Stats
