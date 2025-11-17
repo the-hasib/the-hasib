@@ -27,7 +27,7 @@
 
 ---
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&theme=radical)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-hasib&layout=compact&theme=midnight-purple)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
