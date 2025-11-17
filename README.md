@@ -8,10 +8,10 @@
 ---
 
 ### 🔧 Tools & Technologies
-- C, C++
-- Git, GitHub
-- VS Code, Xcode, Terminal
-- SQL (Beginner)
+- C, C++,Dart, HTML, CSS, JS ..
+- Git, GitHub ..
+- VS Code, Xcode, Terminal ..
+- MySQL (Beginner) ..
 ---
 
 ## 🚀 Current Goals:
@@ -22,7 +22,12 @@
 - Contribute to open-source (future plan!) 💡
 
 ---
-![Snake animation](https://raw.githubusercontent.com/the-hasib/the-hasib/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-hasib/the-hasib/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-hasib/the-hasib/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/the-hasib/the-hasib/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 
 ---
