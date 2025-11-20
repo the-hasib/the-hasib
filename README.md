@@ -22,18 +22,10 @@
 - Contribute to open-source (future plan!) 💡
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-hasib/the-hasib/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-hasib/the-hasib/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/the-hasib/the-hasib/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
-
----
 ## 📊 GitHub Stats
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-hasib&layout=compact&theme=midnight-purple)
 
+---
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
