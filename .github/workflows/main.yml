@@ -1,36 +1,33 @@
 name: Generate Snake
 
-# Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
-    # প্রতি 6 ঘন্টায় একবার রান হবে
-    - cron: "0 */6 * * *" 
-  
-  # ম্যানুয়ালি রান করার অপশন
+    - cron: "0 */6 * * *"    # 6 ghonta por por run
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    # ফাইল পুশ করার জন্য এই পারমিশনটি অত্যাবশ্যক
+
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      # Platane/snk@v3 সরাসরি output ব্রাঞ্চে ফাইল পুশ করবে
-      - uses: Platane/snk@v3
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: the-hasib
-          # কোথায় পুশ করবে
-          target_branch: output
-          # জেনারেট করা ফাইলগুলো
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          commit_msg: "Generate snake contribution graph (6-hourly)"
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
-          # পুশ করার জন্য GitHub টোকেন প্রয়োজন
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
