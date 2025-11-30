@@ -22,6 +22,10 @@
 - Contribute to open-source (future plan!) 💡
 
 ---
+## 🖼️ My Git Art
+
+![Git Art](https://raw.githubusercontent.com/the-hasib/the-hasib/main/profile_gitart.svg)
+
 ---
 ## 🥣 Hungry for Commits
 
