@@ -21,7 +21,7 @@ jobs:
           # Your GitHub username
           user_name: the-hasib
           # The text you want to display on the contribution graph (Max 8 CAPS characters)
-          text: HASIB 
+          text: THE-HASIB 
           # Name of the output file
           svg_path: profile_gitart.svg
           
