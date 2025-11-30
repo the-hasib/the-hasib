@@ -32,10 +32,9 @@
 
 
 ---
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-hasib&layout=compact&theme=midnight-purple)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-hasib&show_icons=true)
 
 ---
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
