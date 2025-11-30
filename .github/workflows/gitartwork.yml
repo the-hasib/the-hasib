@@ -16,6 +16,6 @@ jobs:
           # Use this username's contribution graph
           user_name: the-hasib
           # Text on contribution graph
-          text: THE-HASIB
+          text: The Hasib
 
       - uses: jasineri/simple-push-action@v1
