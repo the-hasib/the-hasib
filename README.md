@@ -26,9 +26,12 @@
 ## 🥣 Hungry for Commits
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-hasib/the-hasib/output/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-hasib/the-hasib/output/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/the-hasib/the-hasib/output/dist/github-contribution-grid-snake.svg">
+  <!-- Dark Mode Link (Cache Bypass) -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-hasib/the-hasib/output/dist/github-contribution-grid-snake-dark.svg#cache-bypass">
+  <!-- Light Mode Link (Cache Bypass) -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-hasib/the-hasib/output/dist/github-contribution-grid-snake.svg#cache-bypass">
+  <!-- Fallback Link (Cache Bypass) -->
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/the-hasib/the-hasib/output/dist/github-contribution-grid-snake.svg#cache-bypass">
 </picture>
 
 ---
