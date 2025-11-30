@@ -25,16 +25,14 @@
 ## 🥣 Hungry for Commits
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-hasib/the-hasib/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-hasib/the-hasib/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/the-hasib/the-hasib/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-hasib/the-hasib/output/github-contribution-grid-snake-dark.svg">
+    ... (Rest of the code)
 </picture>
-
 
 ---
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-hasib&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-hasib&show_icons=true&theme=midnight-purple&cache_seconds=3600)
 
 ---
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
