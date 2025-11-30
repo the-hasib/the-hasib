@@ -23,7 +23,9 @@
 
 ---
 ## 📊 GitHub Stats
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-hasib&layout=compact&theme=midnight-purple)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-hasib&layout=compact&theme=midnight-purple)
+
 
 ---
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
