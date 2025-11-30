@@ -29,7 +29,7 @@
 ---
 ## 🥣 Hungry for Commits
 
-![snake gif](https://github.com/the-hasib/the-hasib/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/the-hasib/the-hasib/raw/output/dist/github-contribution-grid-snake.gif" alt="GitHub Snake" width="600" />
 
 ---
 ## 📊 My GitHub Stats
