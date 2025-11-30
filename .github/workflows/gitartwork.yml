@@ -1,32 +1,21 @@
-name: Generate Gitartwork
+name: gitartwork from a contribution graph
 
 on:
-  # Runs once a day
-  schedule:
-    - cron: '0 0 * * *'
-  # Allows manual triggering
-  workflow_dispatch:
+  push:
 
 jobs:
   build:
+    name: Make gitartwork SVG
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Needed for pushing the generated file
+
     steps:
       - uses: actions/checkout@v3
 
-      # 1. Use the Gitartwork action to generate the SVG
       - uses: jasineri/gitartwork@v1
         with:
-          # Your GitHub username
+          # Use this username's contribution graph
           user_name: the-hasib
-          # The text you want to display on the contribution graph (Max 8 CAPS characters)
-          text: THE-HASIB 
-          # Name of the output file
-          svg_path: profile_gitart.svg
-          
-      # 2. Use the push action to push the generated SVG file to the main branch
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "feat: generate gitartwork SVG for HASIB"
-          files: "profile_gitart.svg"
+          # Text on contribution graph
+          text: THE-HASIB
+
+      - uses: jasineri/simple-push-action@v1
