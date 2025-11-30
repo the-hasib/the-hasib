@@ -22,6 +22,8 @@
 - Contribute to open-source (future plan!) 💡
 
 ---
+![Snake animation](https://github.com/the-hasib/the-hasib/blob/output/github-contribution-grid-snake.svg)
+---
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-hasib&layout=compact&theme=midnight-purple)
