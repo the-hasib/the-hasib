@@ -1,17 +1,18 @@
-# 𝙃𝙞, 𝙄'𝙢 𝙎 𝙈 𝙃𝙖𝙨𝙞𝙗𝙪𝙧 𝙍𝙖𝙝𝙢𝙖𝙣 👋
+# Hi, I'm S M Hasibur Rahman 👋
 
-- 🎓 CSE Student at UIU. 
-- 💻 Currently learning: C++, Git, GitHub , Data Structures & Flutter. 
-- 🚀 Passionate about coding, problem-solving & building my skills.
-- 📚 Always exploring new technologies.
+- 🎓 **CSE Student at UIU.**
+- 📚 **Currently learning:** C++, C, Git, GitHub, Data Structures & Flutter.
+- 🚀 **Passionate about** coding, problem‑solving & building my skills.
+- 🌱 **Always exploring** new technologies.
+
 
 ---
 
-### 🔧 Tools & Technologies
-- C, C++,Dart, HTML, CSS, JS ..
-- Git, GitHub ..
-- VS Code, Xcode, Terminal ..
-- MySQL (Beginner) ..
+### 🔧 Tools & Technologies :
+-  **Languages:** C, C++, Dart, HTML, CSS, JS ..
+- **Version Control:** Git, GitHub ..
+-  **Editors & IDEs:** VS Code, Xcode, Terminal ..
+-  **Database:** MySQL (Beginner) ..
 ---
 
 ## 🚀 Current Goals:
@@ -22,36 +23,107 @@
 - Contribute to open-source (future plan!) 💡
 
 ---
-## 🖼️ My Git Art
+## 🖼️ The-Hasib in Green :
+![gitartwork](gitartwork.svg)
 
-![Git Art](https://raw.githubusercontent.com/the-hasib/the-hasib/main/profile_gitart.svg)
 
 ---
-## 🥣 Hungry for Commits
+## 🥣 Hungry for Commits :
 
 ![GitHub Snake](https://github.com/the-hasib/the-hasib/raw/output/github-contribution-grid-snake.svg)
 
 
 
 ---
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats :
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-hasib&show_icons=true&theme=midnight-purple&cache_seconds=3600)
 
 ---
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## 📈 Contribution Journey :
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-hasib&theme=github-dark)
 
 ---
- ## 📫 Connect with Me
- [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasib.cse.uiu@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/cotosaheb00)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-hasib/)
+## 🧰 My Tech Stack :
+
+<table>
+  <tr>
+    <td align="center" style="padding: 12px 18px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="70" /><br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" style="padding: 12px 18px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" /><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" style="padding: 12px 18px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="70" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" style="padding: 12px 18px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="70" /><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" style="padding: 12px 18px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="70" /><br/>
+      <sub><b>Flutter</b></sub>
+    </td>
+    <td align="center" style="padding: 12px 18px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="70" /><br/>
+      <sub><b>HTML</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 12px 18px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="70" /><br/>
+      <sub><b>CSS</b></sub>
+    </td>
+    <td align="center" style="padding: 12px 18px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" style="padding: 12px 18px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="70" /><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 ---
+## 📬 Connect with Me :
+
+<table>
+  <tr>
+    <td align="center" style="padding: 10px 18px;">
+      <a href="mailto:hasib.cse.uiu@gmail.com" target="_blank">
+        <img src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Gmail" width="70" /><br/>
+        <sub><b>Email</b></sub>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px 18px;">
+      <a href="https://facebook.com/cotosaheb00" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="70" /><br/>
+        <sub><b>Facebook</b></sub>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px 18px;">
+      <a href="https://www.linkedin.com/in/the-hasib/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="70" /><br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+       <td align="center" style="padding: 10px 18px;">
+      <a href="https://instagram.com/cotosaheb00" target="_blank">
+        <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Instagram" width="70" /><br/>
+        <sub><b>Instagram</b></sub>
+      </a>
+    </td>
+  </tr>
  
-𝕋𝕙𝕒𝕟𝕜𝕤 𝕗𝕠𝕣 𝕧𝕚𝕤𝕚𝕥𝕚𝕟𝕘 𝕞𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖! 🌟
+</table>
+
+---
+ <h2 align="center">𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙂𝙞𝙩𝙝𝙪𝙗 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ! 🌟</h2>
+
