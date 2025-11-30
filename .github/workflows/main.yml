@@ -1,34 +1,40 @@
+# Name of the workflow visible in the Actions tab
 name: Generate Snake
 
-
+# Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
-    - cron: "0 0 * * *" 
- 
+    # Runs the job every 6 hours (at minute 0, every 6th hour)
+    - cron: "0 */6 * * *" 
+  
+  # Allows manual triggering from the Actions tab
   workflow_dispatch:
 
 jobs:
   build:
+    # Specifies the runner environment
     runs-on: ubuntu-latest
     
-   
+    # REQUIRED: Grants the workflow write permission to push generated files
     permissions:
       contents: write
 
     steps:
+      # Checks out the repository code
       - uses: actions/checkout@v3
 
-   
+      # Uses the Platane/snk action, which generates the snake and handles the push
       - uses: Platane/snk@v3
         with:
+          # Your GitHub username
           github_user_name: the-hasib
-
+          # The target branch where the generated files will be pushed
           target_branch: output
-        
+          # Defines the output file paths and dark mode variant
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          commit_msg: "Generate snake contribution graph"
+          commit_msg: "Generate snake contribution graph (6-hourly update)"
         env:
-         
+          # Uses the provided token for authentication to push changes
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
