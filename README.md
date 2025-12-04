@@ -8,7 +8,7 @@
 
 ---
 
-### 🔧 Tools & Technologies :
+### 🔧 **Tools & Technologies :
 -  **Languages:** C, C++, Dart, HTML, CSS, JS ..
 - **Version Control:** Git, GitHub ..
 -  **Editors & IDEs:** VS Code, Xcode, Terminal ..
