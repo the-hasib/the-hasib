@@ -35,11 +35,6 @@
 
 
 ---
-## 📊 My GitHub Stats :
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-hasib&show_icons=true&theme=midnight-purple&cache_seconds=3600)
-
----
 ## 📈 Contribution Journey :
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-hasib&theme=github-dark)
