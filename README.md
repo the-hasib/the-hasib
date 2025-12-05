@@ -32,8 +32,6 @@
 
 ![GitHub Snake](https://github.com/the-hasib/the-hasib/raw/output/github-contribution-grid-snake.svg)
 
-
-
 ---
 ## 📈 Contribution Journey :
 
