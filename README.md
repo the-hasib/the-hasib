@@ -3,7 +3,7 @@
 - 🎓 **CSE Student at UIU (currently in the 7th trimester).**
 - 📚 **Currently learning:** C++, C, Git, GitHub, Data Structures & Flutter.
 - 🚀 **Passionate about** coding, problem‑solving & building my skills.
-- 🌱 **Always exploring** new technologies .
+- 🌱 **Always exploring** new technologies.
 
 
 ---
