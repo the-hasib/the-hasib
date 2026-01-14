@@ -9,10 +9,10 @@
 ---
 
 ## 🔧 Tools & Technologies :
--  **Languages:** C, C++, Dart, HTML, CSS, JS ..
-- **Version Control:** Git, GitHub ..
--  **Editors & IDEs:** VS Code, Xcode, Terminal ..
--  **Database:** MySQL (Beginner) ..
+-  **Languages:** C, C++, Dart, HTML, CSS, JS .
+- **Version Control:** Git, GitHub .
+-  **Editors & IDEs:** VS Code, Xcode, Terminal .
+-  **Database:** MySQL (Beginner) .
 ---
 
 ## 🚀 Current Goals:
