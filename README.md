@@ -35,88 +35,51 @@
 ---
 ## 📈 Contribution Journey :
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-hasib&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-hasib&theme=react-dark)
 
 ---
-## 🧰 My Tech Stack :
+## 🧰 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" style="padding: 12px 18px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="70" /><br/>
-      <sub><b>C</b></sub>
-    </td>
-    <td align="center" style="padding: 12px 18px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" /><br/>
-      <sub><b>C++</b></sub>
-    </td>
-    <td align="center" style="padding: 12px 18px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="70" /><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" style="padding: 12px 18px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="70" /><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" style="padding: 12px 18px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="70" /><br/>
-      <sub><b>Flutter</b></sub>
-    </td>
-    <td align="center" style="padding: 12px 18px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="70" /><br/>
-      <sub><b>HTML</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 12px 18px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="70" /><br/>
-      <sub><b>CSS</b></sub>
-    </td>
-    <td align="center" style="padding: 12px 18px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" /><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" style="padding: 12px 18px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="70" /><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+### Languages & Core Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,flutter,dart,mysql" alt="Tech Stack" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,phpstorm" alt="Tools" />
+</p>
+
+### Development Environment
+<p>
+  <img src="https://img.shields.io/badge/Laravel_Herd-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Herd" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+</p>
+
+</div>
 
 ---
-## 📬 Connect with Me :
 
-<table>
-  <tr>
-    <td align="center" style="padding: 10px 18px;">
-      <a href="mailto:hasib.cse.uiu@gmail.com" target="_blank">
-        <img src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Gmail" width="70" /><br/>
-        <sub><b>Email</b></sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px 18px;">
-      <a href="https://facebook.com/cotosaheb00" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="70" /><br/>
-        <sub><b>Facebook</b></sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px 18px;">
-      <a href="https://www.linkedin.com/in/the-hasib/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="70" /><br/>
-        <sub><b>LinkedIn</b></sub>
-      </a>
-    </td>
-       <td align="center" style="padding: 10px 18px;">
-      <a href="https://instagram.com/cotosaheb00" target="_blank">
-        <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Instagram" width="70" /><br/>
-        <sub><b>Instagram</b></sub>
-      </a>
-    </td>
-  </tr>
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasib.cse.uiu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-hasib/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/cotosaheb00)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cotosaheb00)
+
+</div>
+
+---
+
+<div align="center">
  
-</table>
+<h2 align="center">𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙂𝙞𝙩𝙝𝙪𝙗 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ! 🌟</h2>
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square&label=Profile+Views)
 
----
- <h2 align="center">𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙂𝙞𝙩𝙝𝙪𝙗 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ! 🌟</h2>
+</div>
 
