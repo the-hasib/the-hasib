@@ -44,7 +44,7 @@
 
 ### Languages & Core Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,flutter,dart,mysql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,flutter,dart,mysql" alt="Tech Stack" />
 </p>
 
 ### Tools & Platforms
