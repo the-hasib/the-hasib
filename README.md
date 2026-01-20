@@ -63,21 +63,42 @@
 ---
 
 ## 🤝 Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasib.cse.uiu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-hasib/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/cotosaheb00)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cotosaheb00)
-
+<div>
+  
 </div>
 
+
+
+<p align="center">
+  <a href="mailto:hasib.cse.uiu@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-hasib.cse.uiu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/the-hasib/">
+    <img src="https://img.shields.io/badge/LinkedIn-the--hasib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"/>
+  </a>
+  <a href="https://facebook.com/cotosaheb00">
+    <img src="https://img.shields.io/badge/Facebook-cotosaheb00-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010"/>
+  </a>
+  <a href="https://instagram.com/cotosaheb00">
+    <img src="https://img.shields.io/badge/Instagram-@cotosaheb00-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Always+open+to+collaborate!;Let's+build+something+amazing!;Feel+free+to+reach+out!" alt="Typing SVG" />
+</p>
+<p align="center" style="margin-top: -60px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=100&section=footer"/>
+</p>
+
+<h2 align="center">𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙂𝙞𝙩𝙝𝙪𝙗 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ! 🌟</h2>
 ---
 
 <div align="center">
  
-<h2 align="center">𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙂𝙞𝙩𝙝𝙪𝙗 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ! 🌟</h2>
  
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square&label=Profile+Views)
 
