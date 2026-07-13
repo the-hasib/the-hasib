@@ -22,6 +22,15 @@ with gamification (XP, streaks, leaderboards), productivity tools (flashcards, n
 Gantt charts), and social/peer learning features.
 **My role:** Figma UI/UX design and frontend development (React, TypeScript, TailwindCSS).
 **Tech:** React · TypeScript · TailwindCSS · Figma &nbsp;|&nbsp; Backend by teammate: Java Spring Boot, PostgreSQL, Gemini AI
+
+ ### 🦾 [PowerGrip (NeuroGrasp) — Smart Robotic Exoskeleton for Hand Rehabilitation](https://github.com/the-hasib/PowerGrip-NeuroGrasp-)
+A cost-effective robotic exoskeleton that helps stroke/injury patients regain hand mobility, using
+EMG (muscle signal) sensing to detect intent, a Mirror Therapy mode to stimulate neuroplasticity,
+and an adaptive safety system to prevent crushing fragile objects. Includes IoT telemetry so
+doctors can remotely monitor patient recovery data.
+Built for the Electronics Lab (CSE 124/EEE 2124) course at UIU — 5-person team.
+**Tech:** ESP32 · Embedded C/C++ · EMG (AD8232) & FSR sensors · ThingSpeak IoT · Servo control
+📺 [Video demo](https://youtu.be/yqEZVKJyuBk)
  
 ---
  
