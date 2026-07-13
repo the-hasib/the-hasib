@@ -15,7 +15,7 @@ Built as a 2-person DBMS course project — I handled the complete backend (Lara
 design, authentication, and database architecture).
 **Tech:** Laravel · MySQL · REST API
  
-### 🎓 [SkillOS — AI-Powered Learning Roadmap Platform](https://github.com/Ruhanyat-994/skills-os)
+### 🎓 [SkillOS — AI-Powered Learning Roadmap Platform](https://github.com/smhasiburrahman/skills-os)
 A 5-person Advanced OOP (AOOP) course project — placed **1st Runner-up** at the university project
 showcase. SkillOS is an AI-powered learning platform that generates personalized skill roadmaps,
 with gamification (XP, streaks, leaderboards), productivity tools (flashcards, notes, Kanban,
