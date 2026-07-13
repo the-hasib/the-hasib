@@ -15,12 +15,13 @@ Built as a 2-person DBMS course project — I handled the complete backend (Lara
 design, authentication, and database architecture).
 **Tech:** Laravel · MySQL · REST API
  
-### 🎨 [skills-os](https://github.com/Ruhanyat-994/skills-os)
-A 2-person Advanced OOP (AOOP) course project — placed **1st Runner-up** at the university project
-showcase. I led the Figma design and frontend implementation.
-**Tech:** HTML · CSS · JavaScript · Figma
- 
-> More projects below, and continuously updating as I build more.
+### 🎓 [SkillOS — AI-Powered Learning Roadmap Platform](https://github.com/Ruhanyat-994/skills-os)
+A 5-person Advanced OOP (AOOP) course project — placed **1st Runner-up** at the university project
+showcase. SkillOS is an AI-powered learning platform that generates personalized skill roadmaps,
+with gamification (XP, streaks, leaderboards), productivity tools (flashcards, notes, Kanban,
+Gantt charts), and social/peer learning features.
+**My role:** Figma UI/UX design and frontend development (React, TypeScript, TailwindCSS).
+**Tech:** React · TypeScript · TailwindCSS · Figma &nbsp;|&nbsp; Backend by teammate: Java Spring Boot, PostgreSQL, Gemini AI
  
 ---
  
